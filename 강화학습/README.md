@@ -1,3 +1,3 @@
-## MOVED: opencv_stitching_tool
+## 강화학습 기계 제어 토이프로젝트
 
-As the stitching package is now available on [PyPI](https://pypi.org/project/stitching/) the tool and belonging package are now maintained [here](https://github.com/lukasalexanderweber/stitching). The Tutorial is maintained [here](https://github.com/lukasalexanderweber/stitching_tutorial).
+offline learning, dqn 기반, 데이터 미포함.
