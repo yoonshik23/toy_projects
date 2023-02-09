@@ -1,3 +1,3 @@
-## MOVED: opencv_stitching_tool
+## 모터설비 이상감지 토이프로젝트
 
-As the stitching package is now available on [PyPI](https://pypi.org/project/stitching/) the tool and belonging package are now maintained [here](https://github.com/lukasalexanderweber/stitching). The Tutorial is maintained [here](https://github.com/lukasalexanderweber/stitching_tutorial).
+정상 / 이상 구간 간의 통계 검정, 이상감지 알고리즘 적용, 알람룰 적용 내용 포함.
